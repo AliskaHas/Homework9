@@ -1,0 +1,16 @@
+C:\Users\nhasa\Desktop\Homework9\Task68\bin\Debug\net6.0\Task68.exe
+C:\Users\nhasa\Desktop\Homework9\Task68\bin\Debug\net6.0\Task68.deps.json
+C:\Users\nhasa\Desktop\Homework9\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+C:\Users\nhasa\Desktop\Homework9\Task68\bin\Debug\net6.0\Task68.dll
+C:\Users\nhasa\Desktop\Homework9\Task68\bin\Debug\net6.0\ref\Task68.dll
+C:\Users\nhasa\Desktop\Homework9\Task68\bin\Debug\net6.0\Task68.pdb
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.GlobalUsings.g.cs
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.dll
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\ref\Task68.dll
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.pdb
+C:\Users\nhasa\Desktop\Homework9\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
